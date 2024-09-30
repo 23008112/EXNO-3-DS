@@ -40,6 +40,7 @@ We use this categorical data encoding technique when the features are nominal(do
 /* DEVELOPED BY :R. SANJANA
 REGISTER NO: 212223240148*/
 ```
+```
 import pandas as pd
 df = pd.read_csv("Encoding_data.csv")
 df.head()
